@@ -1,0 +1,15 @@
+\section{建立模型}
+\indent 模型如下：\\
+\begin{equation}
+    min Z=\sum_{k = 1}^{3}S_{k}(\sum_{i = 1} \sum_{j = 1}^{30}x_{ij}c_{ij} )    
+\end{equation}
+\begin{equation}
+    s.t.\left\{
+        \begin{aligned}
+        \sum_{i}a_{i} & =  \sum_{j = 1}^{30}b_{j}\\
+        \sum_{j = 1}x_{ij} & =  b_{j}\eqslantless Q\\
+        \sum_{i = 1}x_{ij} &  =  a_{i} \\
+        x_{ij}& \geqslant  0\\
+        \end{aligned}
+        \right.
+\end{equation}

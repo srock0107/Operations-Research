@@ -1,0 +1,95 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% MCM/ICM LaTeX Template %%
+%% 2022 MCM/ICM           %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{left=1in,right=1in,top=1in,bottom=0.9in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Replace ABCDEF in the next line with your chosen problem
+% and replace 1111111 with your Team Control Number
+\newcommand{\Problem}{A}
+\newcommand{\Team}{mby}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{newtxtext}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{newtxmath} % must come after amsXXX
+
+\usepackage{ctex}    %调用中文宏包
+\usepackage{cite}
+\usepackage{graphicx}%图片头文件
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{caption}
+
+\usepackage{diagbox}
+\usepackage{listings}
+\usepackage{fontspec}
+\usepackage{verbatim}
+\usepackage{float} %指定图片位置
+%\usepackage{subfigure}%并排子图 共享标题 有子标题
+\usepackage{subcaption}
+\usepackage{makecell}
+%\usepackage{indentfirst}
+\lhead{0R2022- \Team}
+\rhead{}
+\cfoot{}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{definition}{Definition}
+%\pagestyle{type} 
+\begin{document}
+\graphicspath{{images}}  % Place your graphic files in the same directory as your main document
+\DeclareGraphicsExtensions{.pdf, .jpg, .tif, .png, .webp}
+\thispagestyle{empty}
+\vspace*{-16ex}
+%\centerline{\begin{tabular}{*3{c}}
+
+%%%%%%%%%%% Begin Summary %%%%%%%%%%%
+% Enter your summary here replacing the (red) text
+% Replace the text from here ...
+%\input{summary}
+% to here
+%%%%%%%%%%% End Summary %%%%%%%%%%%
+\setlength{\headheight}{15pt}
+%\clearpage
+%%%%%%%%%%%%%%%%设置目录%%%%%%%%%%%%%%
+\pagestyle{fancy}
+% Uncomment the next line to generate a Table of Contents
+%\tableofcontents 
+\tableofcontents
+\setcounter{page}{1}
+\rhead{Page \thepage\ of \pageref{LastPage}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%开始正文%%%%%%%%%%%%%%
+\newpage
+\input{introduction}
+
+\input{assumptions and justifications}
+\input{model1}
+\input{notations}
+
+
+\input{model3}
+\input{part2}
+\input{part3}
+\input{part4}
+\input{sensitivity analysis}
+\input{strengths and weaknesses}
+\input{conclusion}
+\input{model2}
+%\bibliographystyle{plain}
+%\bibliography{ref}
+%\input{appendics}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+\end

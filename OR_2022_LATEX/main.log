@@ -1,0 +1,1757 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.1.20)  31 MAR 2023 15:05
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/电子科技大学/A2-大二资料/2-大二下/运筹学/运筹学结课大报告/OR_2022_LATEX/main
+(d:/电子科技大学/A2-大二资料/2-大二下/运筹学/运筹学结课大报告/OR_2022_LATEX/main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (e:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(e:/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (e:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (e:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (e:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (e:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count183
+\Gm@cntv=\count184
+\c@Gm@tempcnt=\count185
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+) (e:/texlive/2021/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2020/09/19 v1.630
+ `newtxtext' v1.630, 2020/09/19 Text macros taking advantage of TeX-Gyre Termes fonts (msharpe) (e:/texlive/2021/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\ntx@fs=\dimen147
+ (e:/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (e:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (e:/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count186
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (e:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+) (e:/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty (e:/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count188
+Invalid UTF-8 byte or sequence at line 35 replaced by U+FFFD.
+\decimalpart=\count189
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 86 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 102 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 114 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 120 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 221 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 221 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 302 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 333 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 434 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 457 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 457 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 466 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 466 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 595 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 597 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 599 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 602 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 605 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 605 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 610 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 615 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 632 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 632 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 633 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 635 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 637 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 647 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 653 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 678 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 700 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 705 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 719 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 732 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 732 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 742 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 742 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 762 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 773 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 773 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 810 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 824 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 824 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 831 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 838 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 838 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 846 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 846 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 861 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 862 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 908 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 934 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 934 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 936 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 936 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 940 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 940 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 962 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 962 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 964 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 965 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1006 replaced by U+FFFD.
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+) (e:/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (e:/texlive/2021/texmf-dist/tex/latex/carlisle/scalefnt.sty) (e:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 112.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+) (e:/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+)
+\ntxt@cntz=\count190
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 316.
+) (e:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(e:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (e:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen148
+)) (e:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+) (e:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks20
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks21
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (e:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks29
+) (e:/texlive/2021/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2020/12/20 v1.640
+ `newtxmath' v1.640, 2020/12/20 Math macros based originally on txfonts (msharpe) (e:/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (e:/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (e:/texlive/2021/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count269
+ (e:/texlive/2021/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count270
+\tx@IsAlNum=\count271
+\tx@tA=\toks30
+\tx@tB=\toks31
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 361.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 369.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 369.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 369.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 370.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 370.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 370.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 371.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 371.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 371.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 373.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 374.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 375.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 376.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 477.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 477.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 477.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 478.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 542.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 544.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 563.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 563.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 563.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 563.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 563.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 564.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 587.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 608.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 621.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 621.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 621.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 621.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 621.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 622.
+\symlargesymbolsTXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 636.
+\tx@sbptoks=\toks32
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 858.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 859.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 860.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 861.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 862.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 863.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 864.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 866.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 870.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 871.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 942.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 943.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2006.
+LaTeX Font Info:    Redeclaring math symbol \imathscr on input line 2646.
+LaTeX Font Info:    Redeclaring math symbol \jmathscr on input line 2647.
+LaTeX Info: Redefining \Bbbk on input line 2780.
+LaTeX Info: Redefining \not on input line 2929.
+LaTeX Info: Redefining \textsquare on input line 2959.
+LaTeX Info: Redefining \openbox on input line 2961.
+) (e:/texlive/2021/texmf-dist/tex/latex/ctex/ctex.sty (e:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (e:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count272
+\l__color_backend_stack_int=\count273
+\g__color_backend_stack_int=\count274
+\g__graphics_track_int=\count275
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count276
+\g__pdf_backend_annotation_int=\count277
+\g__pdf_backend_link_int=\count278
+))
+Package: ctex 2021/03/14 v2.5.6 Chinese adapter in LaTeX (CTEX)
+ (e:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (e:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (e:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))) (e:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (e:/texlive/2021/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/03/14 v2.5.6 Document and package hooks (CTEX)
+) (e:/texlive/2021/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/03/14 v2.5.6 Patching commands (CTEX)
+) (e:/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (e:/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (e:/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+ (e:/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty))
+\l__ctex_tmp_int=\count279
+\l__ctex_tmp_box=\box50
+\l__ctex_tmp_dim=\dimen157
+\g__ctex_section_depth_int=\count280
+\g__ctex_font_size_int=\count281
+ (e:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/03/14 v2.5.6 Option configuration file (CTEX)
+) (e:/texlive/2021/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/03/14 v2.5.6 XeLaTeX adapter (CTEX)
+ (e:/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
+ (e:/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen158
+\l__xtemplate_tmp_int=\count282
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip55
+)
+\l__xeCJK_tmp_int=\count283
+\l__xeCJK_tmp_box=\box51
+\l__xeCJK_tmp_dim=\dimen159
+\l__xeCJK_tmp_skip=\skip56
+\g__xeCJK_space_factor_int=\count284
+\l__xeCJK_begin_int=\count285
+\l__xeCJK_end_int=\count286
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip57
+\g__xeCJK_node_int=\count287
+\c__xeCJK_CJK_node_dim=\dimen160
+\c__xeCJK_CJK-space_node_dim=\dimen161
+\c__xeCJK_default_node_dim=\dimen162
+\c__xeCJK_default-space_node_dim=\dimen163
+\c__xeCJK_CJK-widow_node_dim=\dimen164
+\c__xeCJK_normalspace_node_dim=\dimen165
+\l__xeCJK_ccglue_skip=\skip58
+\l__xeCJK_ecglue_skip=\skip59
+\l__xeCJK_punct_kern_skip=\skip60
+\l__xeCJK_last_penalty_int=\count288
+\l__xeCJK_last_bound_dim=\dimen166
+\l__xeCJK_last_kern_dim=\dimen167
+\l__xeCJK_widow_penalty_int=\count289
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2341.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen168
+\l__xeCJK_mixed_punct_width_dim=\dimen169
+\l__xeCJK_middle_punct_width_dim=\dimen170
+\l__xeCJK_fixed_margin_width_dim=\dimen171
+\l__xeCJK_mixed_margin_width_dim=\dimen172
+\l__xeCJK_middle_margin_width_dim=\dimen173
+\l__xeCJK_bound_punct_width_dim=\dimen174
+\l__xeCJK_bound_margin_width_dim=\dimen175
+\l__xeCJK_margin_minimum_dim=\dimen176
+\l__xeCJK_kerning_total_width_dim=\dimen177
+\l__xeCJK_same_align_margin_dim=\dimen178
+\l__xeCJK_different_align_margin_dim=\dimen179
+\l__xeCJK_kerning_margin_width_dim=\dimen180
+\l__xeCJK_kerning_margin_minimum_dim=\dimen181
+\l__xeCJK_bound_dim=\dimen182
+\l__xeCJK_reverse_bound_dim=\dimen183
+\l__xeCJK_margin_dim=\dimen184
+\l__xeCJK_minimum_bound_dim=\dimen185
+\l__xeCJK_kerning_margin_dim=\dimen186
+\g__xeCJK_family_int=\count290
+\l__xeCJK_fam_int=\count291
+\g__xeCJK_fam_allocation_int=\count292
+\l__xeCJK_verb_case_int=\count293
+\l__xeCJK_verb_exspace_skip=\skip61
+ (e:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (e:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count294
+\l__fontspec_language_int=\count295
+\l__fontspec_strnum_int=\count296
+\l__fontspec_tmp_int=\count297
+\l__fontspec_tmpa_int=\count298
+\l__fontspec_tmpb_int=\count299
+\l__fontspec_tmpc_int=\count300
+\l__fontspec_em_int=\count301
+\l__fontspec_emdef_int=\count302
+\l__fontspec_strong_int=\count303
+\l__fontspec_strongdef_int=\count304
+\l__fontspec_tmpa_dim=\dimen187
+\l__fontspec_tmpb_dim=\dimen188
+\l__fontspec_tmpc_dim=\dimen189
+ (e:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (e:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (e:/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
+))
+\ccwd=\dimen190
+\l__ctex_ccglue_skip=\skip62
+)
+\l__ctex_ziju_dim=\dimen191
+ (e:/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count305
+ (e:/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+)) (e:/texlive/2021/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/03/14 v2.5.6 Chinese scheme for generic (CTEX)
+ (e:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/03/14 v2.5.6 Caption with encoding UTF-8 (CTEX)
+)) (e:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (e:/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2021/03/14 v2.5.6 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (e:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/03/14 v2.5.6 Configuration file (CTEX)
+) (e:/texlive/2021/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (e:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (e:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (e:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (e:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (e:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
+) (e:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (e:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (e:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip63
+\f@nch@O@elh=\skip64
+\f@nch@O@erh=\skip65
+\f@nch@O@olh=\skip66
+\f@nch@O@orh=\skip67
+\f@nch@O@elf=\skip68
+\f@nch@O@erf=\skip69
+\f@nch@O@olf=\skip70
+\f@nch@O@orf=\skip71
+) (e:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count306
+\float@exts=\toks33
+\float@box=\box52
+\@float@everytoks=\toks34
+\@floatcapt=\box53
+) (e:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen194
+\lightrulewidth=\dimen195
+\cmidrulewidth=\dimen196
+\belowrulesep=\dimen197
+\belowbottomsep=\dimen198
+\aboverulesep=\dimen199
+\abovetopsep=\dimen256
+\cmidrulesep=\dimen257
+\cmidrulekern=\dimen258
+\defaultaddspace=\dimen259
+\@cmidla=\count307
+\@cmidlb=\count308
+\@aboverulesep=\dimen260
+\@belowrulesep=\dimen261
+\@thisruleclass=\count309
+\@lastruleclass=\count310
+\@thisrulewidth=\dimen262
+) (e:/texlive/2021/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (e:/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip72
+\multirow@cntb=\count311
+\multirow@dima=\skip73
+\bigstrutjot=\dimen263
+) (e:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (e:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen264
+\captionmargin@=\dimen265
+\captionwidth=\dimen266
+\caption@tempdima=\dimen267
+\caption@indent=\dimen268
+\caption@parindent=\dimen269
+\caption@hangindent=\dimen270
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count312
+\c@continuedfloat=\count313
+Package caption Info: float package is loaded.
+) (e:/texlive/2021/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+ (e:/texlive/2021/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+ (e:/texlive/2021/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: xetex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 114.
+ (e:/texlive/2021/texmf-dist/tex/latex/pict2e/p2e-xetex.def
+File: p2e-xetex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks35
+\@arclen=\dimen271
+\@arcrad=\dimen272
+\pIIe@tempdima=\dimen273
+\pIIe@tempdimb=\dimen274
+\pIIe@tempdimc=\dimen275
+\pIIe@tempdimd=\dimen276
+\pIIe@tempdime=\dimen277
+\pIIe@tempdimf=\dimen278
+) (e:/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count314
+\calc@Bcount=\count315
+\calc@Adimen=\dimen279
+\calc@Bdimen=\dimen280
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count316
+\calc@Cskip=\skip76
+) (e:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen281
+\ar@mcellbox=\box54
+\extrarowheight=\dimen282
+\NC@list=\toks36
+\extratabsurround=\skip77
+\backup@length=\skip78
+\ar@cellbox=\box55
+)
+\diagbox@boxa=\box56
+\diagbox@boxb=\box57
+\diagbox@boxm=\box58
+\diagbox@wd=\dimen283
+\diagbox@ht=\dimen284
+\diagbox@insepl=\dimen285
+\diagbox@insepr=\dimen286
+\diagbox@outsepl=\dimen287
+\diagbox@outsepr=\dimen288
+) (e:/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count317
+\lst@gtempboxa=\box59
+\lst@token=\toks37
+\lst@length=\count318
+\lst@currlwidth=\dimen289
+\lst@column=\count319
+\lst@pos=\count320
+\lst@lostspace=\dimen290
+\lst@width=\dimen291
+\lst@newlines=\count321
+\lst@lineno=\count322
+\lst@maxwidth=\dimen292
+ (e:/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count323
+\lst@skipnumbers=\count324
+\lst@framebox=\box60
+) (e:/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (e:/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2020/10/19 v3.8.6 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count325
+\l__xeCJK_listings_flag_int=\count326
+) (e:/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks38
+\verbatim@line=\toks39
+\verbatim@in@stream=\read3
+) (e:/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count327
+\c@subtable=\count328
+) (e:/texlive/2021/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen293
+\c@nlinenum=\count329
+\TeXr@lab=\toks40
+)
+\c@theorem=\count330
+\c@definition=\count331
+LaTeX Font Info:    Trying to load font information for TU+ntxtlf on input line 49.
+LaTeX Font Info:    No file TUntxtlf.fd. on input line 49.
+
+
+LaTeX Font Warning: Font shape `TU/ntxtlf/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 49.
+
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 49.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 49.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 49.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 49.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 49.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 49.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 49.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 49.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 49.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 657.65744pt, 65.04256pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=657.65744pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count332
+\c@mv@boldtabular=\count333
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 49.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 49.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count334
+
+
+LaTeX Font Warning: Font shape `TU/ntxtlf/b/n' undefined
+(Font)              using `TU/ntxtlf/m/n' instead on input line 68.
+
+(./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 2.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 2.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (e:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 2.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 2.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 2.
+ (e:/texlive/2021/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+))
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1
+
+] (./introduction.tex
+File: images/pic1.jpg Graphic file (type bmp)
+<images/pic1.jpg>
+
+
+LaTeX Font Warning: Font shape `TU/ntxtlf/m/it' undefined
+(Font)              using `TU/ntxtlf/m/n' instead on input line 13.
+
+) (./assumptions and justifications.tex [2]) (./model1.tex
+File: images/pic2.jpg Graphic file (type bmp)
+<images/pic2.jpg>
+File: images/pic3.jpg Graphic file (type bmp)
+<images/pic3.jpg>
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.1pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 29.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 29.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 29.
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 31--31
+ []|\TU/ntxtlf/m/n/10.95 1900| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 31--31
+ []|\TU/ntxtlf/m/n/10.95 1900| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 31--31
+ []|\TU/ntxtlf/m/n/10.95 1551| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 31--31
+ []|\TU/ntxtlf/m/n/10.95 1420| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 31--31
+ []|\TU/ntxtlf/m/n/10.95 1304| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 31--32
+ []|\TU/ntxtlf/m/n/10.95 2456| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 32--32
+ []|\TU/ntxtlf/m/n/10.95 1474| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 32--32
+ []|\TU/ntxtlf/m/n/10.95 1474| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 32--32
+ []|\TU/ntxtlf/m/n/10.95 1474| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 32--32
+ []|\TU/ntxtlf/m/n/10.95 1185| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 32--32
+ []|\TU/ntxtlf/m/n/10.95 1227| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 32--33
+ []|\TU/ntxtlf/m/n/10.95 2030| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 33--33
+ []|\TU/ntxtlf/m/n/10.95 1518| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 33--33
+ []|\TU/ntxtlf/m/n/10.95 1518| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 33--33
+ []|\TU/ntxtlf/m/n/10.95 1518| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 33--33
+ []|\TU/ntxtlf/m/n/10.95 1418| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 33--33
+ []|\TU/ntxtlf/m/n/10.95 1271| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 33--34
+ []|\TU/ntxtlf/m/n/10.95 2074| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 34--34
+ []|\TU/ntxtlf/m/n/10.95 1557| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 34--34
+ []|\TU/ntxtlf/m/n/10.95 1557| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 34--34
+ []|\TU/ntxtlf/m/n/10.95 1557| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 34--34
+ []|\TU/ntxtlf/m/n/10.95 1035| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 34--34
+ []|\TU/ntxtlf/m/n/10.95 1463| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 34--34
+ []|\TU/ntxtlf/m/n/10.95 1310| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 34--35
+ []|\TU/ntxtlf/m/n/10.95 2113| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 35--35
+ []|\TU/ntxtlf/m/n/10.95 1780| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 35--35
+ []|\TU/ntxtlf/m/n/10.95 1780| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 35--35
+ []|\TU/ntxtlf/m/n/10.95 1431| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 35--35
+ []|\TU/ntxtlf/m/n/10.95 1566| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 35--35
+ []|\TU/ntxtlf/m/n/10.95 1184| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 35--36
+ []|\TU/ntxtlf/m/n/10.95 2336| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 36--36
+ []|\TU/ntxtlf/m/n/10.95 1379| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 36--36
+ []|\TU/ntxtlf/m/n/10.95 1379| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 36--36
+ []|\TU/ntxtlf/m/n/10.95 1030| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 36--36
+ []|\TU/ntxtlf/m/n/10.95 1168| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 36--36
+ []|\TU/ntxtlf/m/n/10.95 1136| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 36--37
+ []|\TU/ntxtlf/m/n/10.95 1935| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1200| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1300| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1300| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1366| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1074| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1179| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 37--37
+ []|\TU/ntxtlf/m/n/10.95 1053| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 37--38
+ []|\TU/ntxtlf/m/n/10.95 1756| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 38--38
+ []|\TU/ntxtlf/m/n/10.95 1158| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 38--38
+ []|\TU/ntxtlf/m/n/10.95 1639| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 38--38
+ []|\TU/ntxtlf/m/n/10.95 1347| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 38--39
+ []|\TU/ntxtlf/m/n/10.95 1456| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 39--39
+ []|\TU/ntxtlf/m/n/10.95 1278| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 39--39
+ []|\TU/ntxtlf/m/n/10.95 1155| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 39--40
+ []|\TU/ntxtlf/m/n/10.95 1462| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 40--40
+ []|\TU/ntxtlf/m/n/10.95 1416| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 40--40
+ []|\TU/ntxtlf/m/n/10.95 1124| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 40--41
+ []|\TU/ntxtlf/m/n/10.95 1470| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 41--41
+ []|\TU/ntxtlf/m/n/10.95 1300| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 41--41
+ []|\TU/ntxtlf/m/n/10.95 1300| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 41--41
+ []|\TU/ntxtlf/m/n/10.95 1136| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 41--41
+ []|\TU/ntxtlf/m/n/10.95 1265| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 41--41
+ []|\TU/ntxtlf/m/n/10.95 1195| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 41--42
+ []|\TU/ntxtlf/m/n/10.95 1856| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 42--42
+ []|\TU/ntxtlf/m/n/10.95 1031| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 42--42
+ []|\TU/ntxtlf/m/n/10.95 1512| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 42--42
+ []|\TU/ntxtlf/m/n/10.95 1220| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 42--43
+ []|\TU/ntxtlf/m/n/10.95 1394| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1000| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1000| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1000| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1000| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1233| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1714| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1422| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 43--43
+ []|\TU/ntxtlf/m/n/10.95 1034| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 43--44
+ []|\TU/ntxtlf/m/n/10.95 1556| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 44--44
+ []|\TU/ntxtlf/m/n/10.95 1240| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 44--44
+ []|\TU/ntxtlf/m/n/10.95 1473| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 44--44
+ []|\TU/ntxtlf/m/n/10.95 1954| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 44--44
+ []|\TU/ntxtlf/m/n/10.95 1662| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 44--45
+ []|\TU/ntxtlf/m/n/10.95 1404| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 45--45
+ []|\TU/ntxtlf/m/n/10.95 1100| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 45--45
+ []|\TU/ntxtlf/m/n/10.95 1581| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 45--45
+ []|\TU/ntxtlf/m/n/10.95 1289| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 45--46
+ []|\TU/ntxtlf/m/n/10.95 1214| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 46--46
+ []|\TU/ntxtlf/m/n/10.95 1000| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 46--46
+ []|\TU/ntxtlf/m/n/10.95 1000| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 46--46
+ []|\TU/ntxtlf/m/n/10.95 1326| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 46--47
+ []|\TU/ntxtlf/m/n/10.95 1556| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 47--47
+ []|\TU/ntxtlf/m/n/10.95 1100| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 47--47
+ []|\TU/ntxtlf/m/n/10.95 1100| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 47--47
+ []|\TU/ntxtlf/m/n/10.95 1103| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 47--47
+ []|\TU/ntxtlf/m/n/10.95 1326| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 47--48
+ []|\TU/ntxtlf/m/n/10.95 1656| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 48--48
+ []|\TU/ntxtlf/m/n/10.95 1115| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 48--48
+ []|\TU/ntxtlf/m/n/10.95 1375| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 48--48
+ []|\TU/ntxtlf/m/n/10.95 1230| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 48--49
+ []|\TU/ntxtlf/m/n/10.95 1424| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 49--49
+ []|\TU/ntxtlf/m/n/10.95 1185| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 49--49
+ []|\TU/ntxtlf/m/n/10.95 1418| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 49--49
+ []|\TU/ntxtlf/m/n/10.95 1607| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 49--50
+ []|\TU/ntxtlf/m/n/10.95 1182| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 50--50
+ []|\TU/ntxtlf/m/n/10.95 1406| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 50--50
+ []|\TU/ntxtlf/m/n/10.95 1639| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 50--50
+ []|\TU/ntxtlf/m/n/10.95 1539| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 50--50
+ []|\TU/ntxtlf/m/n/10.95 1828| 
+ []
+
+
+Overfull \hbox (1.06071pt too wide) in paragraph at lines 50--51
+ []|\TU/ntxtlf/m/n/10.95 862| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 51--51
+ []|\TU/ntxtlf/m/n/10.95 1791| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 51--51
+ []|\TU/ntxtlf/m/n/10.95 2024| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 51--51
+ []|\TU/ntxtlf/m/n/10.95 1420| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 51--51
+ []|\TU/ntxtlf/m/n/10.95 2213| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 51--51
+ []|\TU/ntxtlf/m/n/10.95 1020| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 52--52
+ []|\TU/ntxtlf/m/n/10.95 1621| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 52--52
+ []|\TU/ntxtlf/m/n/10.95 1854| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 52--52
+ []|\TU/ntxtlf/m/n/10.95 1340| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 52--52
+ []|\TU/ntxtlf/m/n/10.95 2043| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 52--52
+ []|\TU/ntxtlf/m/n/10.95 1082| 
+ []
+
+
+Overfull \hbox (1.06071pt too wide) in paragraph at lines 52--53
+ []|\TU/ntxtlf/m/n/10.95 231| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 53--53
+ []|\TU/ntxtlf/m/n/10.95 1385| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 53--53
+ []|\TU/ntxtlf/m/n/10.95 1618| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 53--53
+ []|\TU/ntxtlf/m/n/10.95 1104| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 53--53
+ []|\TU/ntxtlf/m/n/10.95 1807| 
+ []
+
+
+Overfull \hbox (1.06071pt too wide) in paragraph at lines 53--54
+ []|\TU/ntxtlf/m/n/10.95 756| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 54--54
+ []|\TU/ntxtlf/m/n/10.95 1364| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 54--54
+ []|\TU/ntxtlf/m/n/10.95 1131| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 54--55
+ []|\TU/ntxtlf/m/n/10.95 1128| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 55--55
+ []|\TU/ntxtlf/m/n/10.95 1478| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 55--55
+ []|\TU/ntxtlf/m/n/10.95 1245| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 55--55
+ []|\TU/ntxtlf/m/n/10.95 1001| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 55--56
+ []|\TU/ntxtlf/m/n/10.95 1314| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 56--56
+ []|\TU/ntxtlf/m/n/10.95 1572| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 56--56
+ []|\TU/ntxtlf/m/n/10.95 1339| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 56--56
+ []|\TU/ntxtlf/m/n/10.95 1080| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 56--57
+ []|\TU/ntxtlf/m/n/10.95 1373| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 57--57
+ []|\TU/ntxtlf/m/n/10.95 1223| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 57--57
+ []|\TU/ntxtlf/m/n/10.95 1456| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 57--57
+ []|\TU/ntxtlf/m/n/10.95 1310| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 57--57
+ []|\TU/ntxtlf/m/n/10.95 1439| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 57--58
+ []|\TU/ntxtlf/m/n/10.95 1076| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 58--58
+ []|\TU/ntxtlf/m/n/10.95 1791| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 58--58
+ []|\TU/ntxtlf/m/n/10.95 2024| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 58--58
+ []|\TU/ntxtlf/m/n/10.95 1327| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 58--58
+ []|\TU/ntxtlf/m/n/10.95 2213| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 58--58
+ []|\TU/ntxtlf/m/n/10.95 1020| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 58--58
+ []|\TU/ntxtlf/m/n/10.95 1201| 
+ []
+
+
+Overfull \hbox (1.06071pt too wide) in paragraph at lines 58--59
+ []|\TU/ntxtlf/m/n/10.95 389| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 59--59
+ []|\TU/ntxtlf/m/n/10.95 1538| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 59--59
+ []|\TU/ntxtlf/m/n/10.95 1771| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 59--59
+ []|\TU/ntxtlf/m/n/10.95 1239| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 59--59
+ []|\TU/ntxtlf/m/n/10.95 1360| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 59--60
+ []|\TU/ntxtlf/m/n/10.95 1326| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 60--60
+ []|\TU/ntxtlf/m/n/10.95 1730| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 60--60
+ []|\TU/ntxtlf/m/n/10.95 1497| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 60--60
+ []|\TU/ntxtlf/m/n/10.95 1018| 
+ []
+
+
+Overfull \hbox (4.82817pt too wide) in paragraph at lines 60--60
+ []|\TU/ntxtlf/m/n/10.95 1102| 
+ []
+
+
+Overfull \hbox (6.5357pt too wide) in paragraph at lines 60--61
+ []|\TU/ntxtlf/m/n/10.95 1509| 
+ []
+
+
+Overfull \hbox (5.24272pt too wide) in paragraph at lines 27--63
+ [][] 
+ []
+
+[3]
+Overfull \hbox (13.549pt too wide) in paragraph at lines 64--78
+[]\TU/FandolSong-Regular(0)/m/n/12 我 们 将 学 生 常 去 的 地 区 \TU/FandolSong-Regular(0)/m/it/12 常 驻 地\TU/FandolSong-Regular(0)/m/n/12 ，|  做 出 三 种 分 类：|  宿 舍 区  |（\TU/ntxtlf/m/it/12 ABC\TU/FandolSong-Regular(0)/m/n/12 ）| \TU/ntxtlf/m/it/12 , \TU/FandolSong-Regular(0)/m/n/12 学 习\TU/ntxtlf/m/it/12 /\TU/FandolSong-Regular(0)/m/n/12 教 研 室 区  |（\TU/ntxtlf/m/it/12 DEFMLH\TU/FandolSong-Regular(0)/m/n/12 ）|
+ []
+
+[4]) (./notations.tex) [5] (./model3.tex) (./part2.tex) (./part3.tex) (./part4.tex) (./sensitivity analysis.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+) (./strengths and weaknesses.tex
+File: images/pic.png Graphic file (type bmp)
+<images/pic.png>
+File: images/pic5.png Graphic file (type bmp)
+<images/pic5.png>
+ [6]
+File: images/pic6.png Graphic file (type bmp)
+<images/pic6.png>
+ [7]
+Overfull \hbox (1.76373pt too wide) in paragraph at lines 27--43
+ [][] 
+ []
+
+
+Overfull \hbox (1.76373pt too wide) in paragraph at lines 47--63
+ [][] 
+ []
+
+) (./conclusion.tex [8]
+File: images/pic7.jpg Graphic file (type bmp)
+<images/pic7.jpg>
+File: images/pic1.jpg Graphic file (type bmp)
+<images/pic1.jpg>
+ [9]) (./model2.tex) 
+AED: lastpage setting LastPage
+[10] (./main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15390 strings out of 476919
+ 319560 string characters out of 5825424
+ 713770 words of memory out of 5000000
+ 35058 multiletter control sequences out of 15000+600000
+ 443856 words of font info for 138 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 101i,18n,117p,408b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.pdf (10 pages).
